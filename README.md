@@ -11,6 +11,6 @@ NOTES:
 
 ## Download
 
-https://github.com/d49d5f27-d6f2-459f-bdda-ca1d81ae399a
+<a href="https://raw.githubusercontent.com/David-Honisch/DOOMEternalTrainer/main/x64/Release/DOOMEternalTrainer.exe" target="_blank">DOOMEternalTrainer.exe</a>
 
-<a href="https://github.com/30fe092a-5406-4be1-ba80-5af70eb99513">DOOMEternalTrainer.exe</a>
+https://raw.githubusercontent.com/David-Honisch/DOOMEternalTrainer/main/x64/Release/DOOMEternalTrainer.exe
