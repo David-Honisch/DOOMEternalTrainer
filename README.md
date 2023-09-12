@@ -8,3 +8,7 @@ NOTES:
 1. On the cheat engine table, you will see two auto-assembly scripts under "Health/Ammo." You can only pick one or the other because of the addresses they modify.
 2. The grenade and flamethrower hacks work by changing the assembly opcodes from "dec" to "inc". This means that when you untoggle them, you may have to burn through extra grenades or flamethrower attacks to bring it back to normal.
 3. To use the unlimited chainsaw ammo hack, you need to already have 2 chainsaw uses acquired or else the chainsaw ammo will still decrease.
+
+## Download
+
+<a href="blob:https://github.com/30fe092a-5406-4be1-ba80-5af70eb99513">DOOMEternalTrainer.exe</a>
